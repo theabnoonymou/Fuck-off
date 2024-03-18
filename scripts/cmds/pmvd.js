@@ -4,23 +4,23 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "lofianime",
-    aliases: ["aestheticanime"],
+    name: "pmvd",
+    aliases: [],
     author: "Kshitiz",
     version: "1.0",
     cooldowns: 5,
     role: 0,
-    shortDescription: "Get aesthetic lo-fi anime videos",
-    longDescription: "Get aesthetic lo-fi anime videos to relax and enjoy.",
+    shortDescription: "Get random programming meme",
+    longDescription: "Get random programming meme",
     category: "fun",
-    guide: "{p}lofianime",
+    guide: "{p}pmvd",
   },
 
   onStart: async function ({ api, event, args, message }) {
     api.setMessageReaction("🕐", event.messageID, (err) => {}, true);
 
     try {
-      const response = await axios.get(`https://lofi-anime-hr06.onrender.com/kshitiz`, { responseType: "stream" });
+      const response = await axios.get(`https://programmeme.onrender.com/kshitiz`, { responseType: "stream" });
 
       const tempVideoPath = path.join(__dirname, "cache", `${Date.now()}.mp4`);
 
@@ -31,7 +31,7 @@ module.exports = {
         const stream = fs.createReadStream(tempVideoPath);
 
         message.reply({
-          body: `Aesthetic Anime Video`,
+          body: `Random Programming Meme`,
           attachment: stream,
         });
 
