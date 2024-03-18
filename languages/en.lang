@@ -92,17 +92,38 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
-handlerEvents.onlyAdminBot=❌ | Currently only bot's admin can use bot
+handlerEvents.onlyAdminBot=(⋋▂⋌)𝗔𝗖𝗖𝗘𝗦𝗦 𝗗𝗘𝗡𝗜𝗘𝗗 𝖮𝗇𝗅𝗒 𝖻𝗈𝗍 𝖺𝖽𝗆𝗂𝗇 𝖼𝖺𝗇 𝗎𝗌𝖾 𝗍𝗁𝖾 𝖻𝗈𝗍𝗌
+＼`•̀益•́´／<><><><><><><>＼`•̀益•́´／<><>><><><><(︶︹︺)<><><><><><><>
 handlerEvents.commandNotFound=⛔  "%1" 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙙𝙤𝙚𝙨 𝙣𝙤𝙩 𝙚𝙭𝙞𝙨𝙩 🟥
 〉 [+help🔸] 𝙏𝙊 𝙎𝙀𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿'𝙎 𝘽𝙊𝙏 
 ________________________________
 🎖 Perfect 🎖 
-handlerEvents.commandNotFound2=The command you are using does not exist, type %1help to see all available commands
-handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
-handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1"
-handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
-handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1"
-handlerEvents.onlyAdminBot2=❌ | Only bot's admin can use the command "%1"
+handlerEvents.commandNotFound2=𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒏𝒐𝒕 𝒂𝒗𝒂𝒍𝒊𝒂𝒃𝒍𝒆 %1help 𝑻𝒐 𝒔𝒆𝒆 all 𝒕𝒉𝒆𝒆  𝒂𝒗𝒂𝒍𝒂𝒊𝒂𝒃𝒍𝒆 𝒄𝒐𝒎𝒎𝒂𝒎𝒅𝒔
+
+𝑩𝒐𝒕 𝒐𝒘𝒏𝒏𝒆𝒓(◕‿◕)
+https://www.facebook.com/m.zenesha
+handlerEvents.commandSyntaxError=𝕋𝕙𝕖 𝕔𝕠𝕞𝕞𝕒𝕟𝕕  𝕥𝕙𝕒𝕥 𝕪𝕠𝕦 𝕒𝕣𝕖 𝕖𝕩𝕖𝕔𝕦𝕥𝕚𝕟𝕘 𝕚𝕤  𝕖𝕟𝕧𝕒𝕝𝕚𝕕 𝕠𝕣 𝕨𝕣𝕠𝕟𝕘 𝕤𝕪𝕟𝕥𝕒𝕩, 𝕋𝕪𝕡𝕖  %1help %2  𝕥𝕠 𝕜𝕟𝕠𝕨 𝕙𝕠𝕨  𝕔𝕠𝕞𝕞𝕒𝕟𝕕 𝕨𝕠𝕣𝕜𝕤
+handlerEvents.onlyAdmin=(〒︿〒) 𝚂𝚘𝚛𝚛𝚢 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 "%1" 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚎𝚡𝚎𝚌𝚞𝚝𝚎 𝚋𝚢 𝙶𝚛𝚘𝚞𝚙 𝙰𝚍𝚖𝚒𝚗𝚜 
+_________________________________         🤠𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 🤓
+<><>><>><<<><><><><><><><><><><>>
+handlerEvents.onlyAdminToUseOnReply=❌ | 𝖲𝗈𝗋𝗋𝗒 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 "%1" 𝖼𝖺𝗇  𝗈𝗇𝗅𝗒 𝖻𝖾 𝖾𝗑𝖾𝖼𝗎𝗍𝖾𝖽 𝖻𝗒 𝗀𝗋𝗈𝗎𝗉 𝖠𝖽𝗆𝗂𝗇𝗌 
+_________________________________
+(┳◇┳)𝖯𝗋𝖾𝖿𝖾𝗋 𝗍𝗈 𝗍𝖺𝗅𝗄 𝗐𝗂𝗍𝗁 𝖺𝖽𝗆𝗂𝗇(┳◇┳)
+_________________________________
+            😇𝖳𝗁𝖺𝗇𝗄 𝗒𝗈𝗎😇
+<><><><><><><><><><><><><><><><><
+handlerEvents.onlyAdminToUseOnReaction=❌ | 𝗧𝗵𝗲 𝗚𝗿𝗼𝘂𝗽 𝗔𝗗𝗠𝗜𝗡𝗦 𝗰𝗮𝗻 𝗲𝘅𝗲𝗰𝘂𝘁𝗲 𝘁𝗵𝗲 𝗿𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲  𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 "%1"
+handlerEvents.onlyAdminBot2= 🈲THROUGH YOU🈲
+_________________________________
+〉𝑳𝒐𝒓𝒅 𝑪𝒂𝒏 𝒐𝒏𝒍𝒚 𝑨𝒄𝒆𝒔𝒔 𝒕𝒉𝒆 𝒄𝒐𝒎𝒎𝒂𝒏𝒅  
+𝑴𝒓 𝒑𝒆𝒓𝒇𝒆𝒄𝒕
+>𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔
+https://www.facebook.com/m.zenesha𝚎
+THIS IS IT:
+https://www.facebook.com/m.zenesha
+=========================
+🎖CORE🎖=CORE:{+}
+ 
 handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
 handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
 handlerEvents.waitingForCommand=⏱ You are in the waiting time to use this command, please come back after %1s
