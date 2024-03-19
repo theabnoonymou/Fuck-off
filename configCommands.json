@@ -61,6 +61,7 @@
     "write.js",
     "war.js",
     "ai.js",
-    "ai2.js"
+    "ai2.js",
+    "prefix.js"
   ]
 }

@@ -83,7 +83,7 @@ const a = {
   name: "gpt",
   aliases: ["chatgpt"],
   version: "3.0",
-  author: "kshitiz",
+  author: "vex_kshitiz",
   countDown: 5,
   role: 0,
   longDescription: "Chat with GPT-4",
@@ -95,7 +95,7 @@ const a = {
 
 async function b(c, d, e, f) {
   try {
-    const g = await axios.get(`https://vercel.com/bishwobastola03s-projects/openai-mrperfect?prompt=${encodeURIComponent(c)}&uid=${d}&apikey=kshitiz`);
+    const g = await axios.get(`https://gpt4-phi-rose.vercel.app/kshitiz?prompt=${encodeURIComponent(c)}&uid=${d}&apikey=kshitiz`);
     return g.data.gpt4;
   } catch (h) {
     throw h;
@@ -104,7 +104,7 @@ async function b(c, d, e, f) {
 
 async function i(c) {
   try {
-    const j = await axios.get(`https://vercel.com/bishwobastola03s-projects/openai-mrperfect/?prompt=${encodeURIComponent(c)}&styles=7`, { responseType: 'arraybuffer' });
+    const j = await axios.get(`https://ai-tools.replit.app/sdxl?prompt=${encodeURIComponent(c)}&styles=7`, { responseType: 'arraybuffer' });
     return j.data;
   } catch (k) {
     throw k;
@@ -113,7 +113,7 @@ async function i(c) {
 
 async function describeImage(prompt, photoUrl) {
   try {
-    const url = `https://vercel.com/bishwobastola03s-projects/openai-mrperfect=${encodeURIComponent(prompt)}&url=${encodeURIComponent(photoUrl)}`;
+    const url = `https://sandipbaruwal.onrender.com/gemini2?prompt=${encodeURIComponent(prompt)}&url=${encodeURIComponent(photoUrl)}`;
     const response = await axios.get(url);
     return response.data.answer;
   } catch (error) {
