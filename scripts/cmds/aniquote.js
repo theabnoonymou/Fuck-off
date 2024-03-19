@@ -9,7 +9,7 @@ module.exports = {
     aliases: [],
     version: "1.2",
     author: "Shikaki",
-    countDown: 5,
+    countDown: 0,
     role: 0,
     shortDescription: {
       en: "Display a random quote"

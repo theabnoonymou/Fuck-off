@@ -5,7 +5,7 @@ module.exports = {
 		name: "antichangeinfobox",
 		version: "1.9",
 		author: "NTKhang",
-		countDown: 5,
+		countDown: 0,
 		role: 0,
 		description: {
 			vi: "Bật tắt chức năng chống thành viên đổi thông tin box chat của bạn",

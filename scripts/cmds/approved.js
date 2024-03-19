@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "approved",
     author: "Jun",
-    countDown: 5,
+    countDown: 0,
     role: 0,
     category: "owner",
     shortDescription: {

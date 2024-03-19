@@ -4,7 +4,7 @@ module.exports = {
 		aliases: ["ad"],
 		version: "1.2",
 		author: "Loid butter",
-		countDown: 5,
+		countDown: 0,
 		role: 2,
 		shortDescription: {
 			vi: "",

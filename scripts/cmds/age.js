@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "age",
     author: "Samir Œ",
-    countDown: 5,
+    countDown: 0,
     role: 0,
     category: "write",
     shortDescription: {

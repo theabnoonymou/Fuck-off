@@ -9,7 +9,7 @@ module.exports = {
 		name: "autosetname",
 		version: "1.3",
 		author: "NTKhang",
-		cooldowns: 5,
+		cooldowns: 0,
 		role: 1,
 		description: {
 			vi: "Tự đổi biệt danh cho thành viên mới vào nhóm chat",

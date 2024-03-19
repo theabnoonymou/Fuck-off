@@ -4,7 +4,7 @@ module.exports = {
     aliases: ["💋"],
     version: "1.0",
     author: "Xue Editz",
-    countDown: 5,
+    countDown: 0,
     role: 0,
     shortDescription: "Send a random kiss gif",
     longDescription: "Send a random kiss gif using the waifu.pics API",

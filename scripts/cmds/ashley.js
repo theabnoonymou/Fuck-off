@@ -6,7 +6,7 @@ module.exports = {
     aliases: [],
     author: "kshitiz",  
     version: "2.0",
-    cooldowns: 5,
+    cooldowns: 0,
     role: 0,
     shortDescription: {
       en: ""

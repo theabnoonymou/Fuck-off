@@ -4,7 +4,7 @@ module.exports = {
     aliases: ["anivid", "animeedit", "animevdo"],
     version: "1.0",
     author: "kshitiz",
-    countDown: 20,
+    countDown: 0,
     role: 0,
     shortDescription: "get anime video",
     longDescription: "get random anime video",

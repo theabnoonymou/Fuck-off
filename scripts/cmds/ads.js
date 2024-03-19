@@ -6,7 +6,7 @@ module.exports = {
     name: "ads",
     version: "1.0",
     author: "Samir B. Thakuri",
-    countDown: 1,
+    countDown: 0,
     role: 0,
     shortDescription: "Advertisement!",
     longDescription: "",

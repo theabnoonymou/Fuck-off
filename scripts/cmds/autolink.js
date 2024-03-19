@@ -10,7 +10,7 @@ module.exports = {
     name: 'autolink',
     version: '1.1',
     author: 'Kshitiz',
-    countDown: 5,
+    countDown: 0,
     role: 0,
     shortDescription: 'Auto video downloader for Instagram, Facebook, TikTok, and Twitter',
     longDescription: '',

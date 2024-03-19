@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["aniaudio"],
     author: "Kshitiz",
     version: "1.0",
-    cooldowns: 5,
+    cooldowns: 0,
     role: 0,
     shortDescription: "Get anime voice",
     longDescription: "Get anime voice based on animeName",

@@ -8,7 +8,7 @@ module.exports = {
     aliases: [],
     author: "Kshitiz",
     version: "1.0",
-    cooldowns: 10,
+    cooldowns: 0,
     role: 0,
     shortDescription: "Get random anime video",
     longDescription: "Get random anime video from provided API",

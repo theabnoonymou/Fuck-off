@@ -4,7 +4,7 @@ module.exports = {
 		name: "ahshit",
 		version: "1.0",
 		author: "Thea",
-		countDown: 5,
+		countDown: 0,
 		role: 0,
 		shortDescription: "no prefix",
 		longDescription: "no prefix",

@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["aniquotes"],
     author: "Kshitiz",
     version: "1.0",
-    cooldowns: 5,
+    cooldowns: 0,
     role: 0,
     shortDescription: "Get random anime quotes vdot",
     longDescription: "Get random anime quotes vdo",

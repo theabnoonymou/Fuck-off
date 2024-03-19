@@ -4,7 +4,7 @@ module.exports = {
 		aliases: ["onlyadbox", "adboxonly", "adminboxonly"],
 		version: "1.3",
 		author: "NTKhang",
-		countDown: 5,
+		countDown: 0,
 		role: 1,
 		description: {
 			vi: "bật/tắt chế độ chỉ quản trị của viên nhóm mới có thể sử dụng bot",

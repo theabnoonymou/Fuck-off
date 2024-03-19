@@ -6,7 +6,7 @@ module.exports = {
 		name: "appstore",
 		version: "1.2",
 		author: "NTKhang",
-		countDown: 5,
+		countDown: 0,
 		role: 0,
 		description: {
 			vi: "Tìm app trên appstore",

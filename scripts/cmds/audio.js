@@ -4,7 +4,7 @@ module.exports = {
     name: "audio",
     version: "1.0",
     author: "AceGun",
-    countDown: 5,
+    countDown: 0,
     role: 0,
     shortDescription: "no prefix",
     longDescription: "no prefix",

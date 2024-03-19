@@ -24,7 +24,7 @@ module.exports = {
   config: {
     name: 'a',
     version: '1.0',
-    author: 'Kshitiz',
+    author: 'Mr perfect',
     role: 0,
     shortDescription: {
       en: 'Manage videos'

@@ -7,7 +7,7 @@ module.exports = {
     name: 'art2',
     version: '1.5',
     author: 'Mr Stoic',
-    countDown: 10,
+    countDown: 0,
     role: 0,
   shortDescription: {
       vi: "",

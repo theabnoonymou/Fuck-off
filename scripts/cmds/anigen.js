@@ -8,7 +8,7 @@ module.exports = {
     aliases: [],
     author: "Kshitiz",
     version: "1.0",
-    cooldowns: 20,
+    cooldowns: 0,
     role: 0,
     shortDescription: "Generate an image .",
     longDescription: "Generates an image ",

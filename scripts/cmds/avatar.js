@@ -6,7 +6,7 @@ module.exports = {
 		name: "avatar",
 		author: "NTKhang",
 		version: "1.6",
-		cooldowns: 5,
+		cooldowns: 0,
 		role: 0,
 		description: {
 			vi: "tạo avatar anime với chữ ký",

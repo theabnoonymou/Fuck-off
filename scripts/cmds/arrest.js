@@ -8,7 +8,7 @@ module.exports = {
 		aliases: ["arrest"],
 		version: "1.0",
 		author: "milan-says",
-		countDown: 5,
+		countDown: 0,
 		role: 0,
 		shortDescription: "arret the rapist",
 		longDescription: "",

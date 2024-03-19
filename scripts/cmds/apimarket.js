@@ -6,7 +6,7 @@ module.exports = {
     aliases: ["apimarket"],
     author: "Jonell Magallanes & kshitiz",
     version: "2.0",
-    cooldowns: 5,
+    cooldowns: 0,
     role: 0,
     shortDescription: {
       en: ""

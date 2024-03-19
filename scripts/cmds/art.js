@@ -5,7 +5,7 @@ module.exports = {
     name: "art",
     role: 0,
     author: "OtinXSandip",
-    countDown: 5,
+    countDown: 0,
     longDescription: "Art images",
     category: "AI",
     guide: {

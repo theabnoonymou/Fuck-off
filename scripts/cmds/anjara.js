@@ -3,7 +3,7 @@ module.exports = {
  name: "anjara",
  version: "1.0",
  author: "thea",
- countDown: 5,
+ countDown: 0,
  role: 0,
  shortDescription: "Mada flag🇲🇬🇲🇬💬",
  longDescription: "no prefix",

@@ -9,7 +9,7 @@ module.exports = {
     aliases: [],
     version: "1.0",
     author: "Kshitiz",
-    countDown: 20,
+    countDown: 0,
     role: 0,
     shortDescription: "Generate an anime style image.",
     longDescription: "Generate an anime style image",
