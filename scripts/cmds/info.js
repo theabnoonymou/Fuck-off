@@ -3,7 +3,7 @@ const moment = require('moment-timezone');
 
 module.exports = {
   config: {
-    name: "info",
+    name: "info2",
     version: "1.0",
     author: "Mr perfect",
     countDown: 0,
@@ -53,7 +53,7 @@ module.exports = {
     });
   },
   onChat: async function ({ event, message, getLang }) {
-    if (event.body && event.body.toLowerCase() === "info") {
+    if (event.body && event.body.toLowerCase() === "info2") {
       this.onStart({ message });
     }
   }
