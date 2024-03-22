@@ -36,13 +36,7 @@ module.exports = {
         };
 
         const videoUrl = 
-["https://i.imgur.com/kSVZkHH.mp4",
-"https://i.imgur.com/Ebj77tA.mp4",
-"https://i.imgur.com/5y3yaQQ.mp4",
-"https://i.imgur.com/kDKmrsw.mp4",
-"https://i.imgur.com/gYGp3WW.mp4",
-"https://i.imgur.com/qqT3YRF.mp4",
- ];
+["https://i.imgur.com/kSVZkHH.mp4","https://i.imgur.com/Ebj77tA.mp4","https://i.imgur.com/5y3yaQQ.mp4","https://i.imgur.com/kDKmrsw.mp4","https://i.imgur.com/gYGp3WW.mp4","https://i.imgur.com/qqT3YRF.mp4",];
         const tmpFolderPath = path.join(__dirname, 'tmp');
 
         if (!fs.existsSync(tmpFolderPath)) {

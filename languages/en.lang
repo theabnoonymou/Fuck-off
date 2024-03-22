@@ -89,9 +89,9 @@ handlerCheckData.cantCreateThread=Groups with id '%1' cannot be written to the d
 handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the database!
 
 # bot/handler/handlerEvents.js
-handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
-handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
-handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
+handlerEvents.userBanned=𝙔𝙤𝙪 𝙝𝙖𝙫𝙚 𝙗𝙚𝙚𝙣 𝙗𝙖𝙣𝙣𝙚𝙙 𝙛𝙧𝙤𝙢 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙤𝙩\n» 𝙍𝙚𝙖𝙨𝙤𝙣: %1\n» 𝙏𝙞𝙢𝙚: %2\n» 𝙐𝙨𝙚𝙧 𝙞𝙙: %3
+handlerEvents.threadBanned=𝙎𝙤𝙧𝙧𝙮 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙥 𝙃𝙖𝙨 𝙗𝙚𝙚𝙣 𝙗𝙖𝙣𝙣𝙚𝙙 𝙛𝙧𝙤𝙢 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙤𝙩 \n» 𝙍𝙚𝙖𝙨𝙤𝙣: %1\n» 𝙏𝙞𝙢𝙚: %2\n» 𝙏𝙝𝙧𝙚𝙖𝙙 𝙞𝙙: %3
+handlerEvents.onlyAdminBox=𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮, 𝙤𝙣𝙡𝙮 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙥 𝙖𝙙𝙢𝙞𝙣𝙨 𝙘𝙖𝙣 𝙪𝙨𝙚 𝙩𝙝𝙚 𝙗𝙤𝙩.
 handlerEvents.onlyAdminBot=(⋋▂⋌)𝗔𝗖𝗖𝗘𝗦𝗦 𝗗𝗘𝗡𝗜𝗘𝗗 𝖮𝗇𝗅𝗒 𝖻𝗈𝗍 𝖺𝖽𝗆𝗂𝗇 𝖼𝖺𝗇 𝗎𝗌𝖾 𝗍𝗁𝖾 𝖻𝗈𝗍𝗌
 ＼`•̀益•́´／<><><><><><><>＼`•̀益•́´／<><>><><><><(︶︹︺)<><><><><><><>
 handlerEvents.commandNotFound=⛔  "%1" 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙙𝙤𝙚𝙨 𝙣𝙤𝙩 𝙚𝙭𝙞𝙨𝙩 🟥
@@ -99,10 +99,7 @@ handlerEvents.commandNotFound=⛔  "%1" 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙙𝙤�
 ________________________________
 🎖 Perfect 🎖 
 handlerEvents.commandNotFound2=𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒏𝒐𝒕 𝒂𝒗𝒂𝒍𝒊𝒂𝒃𝒍𝒆 %1help 𝑻𝒐 𝒔𝒆𝒆 all 𝒕𝒉𝒆𝒆  𝒂𝒗𝒂𝒍𝒂𝒊𝒂𝒃𝒍𝒆 𝒄𝒐𝒎𝒎𝒂𝒎𝒅𝒔
-
-𝑩𝒐𝒕 𝒐𝒘𝒏𝒏𝒆𝒓(◕‿◕)
-https://www.facebook.com/m.zenesha
-handlerEvents.commandSyntaxError=𝕋𝕙𝕖 𝕔𝕠𝕞𝕞𝕒𝕟𝕕  𝕥𝕙𝕒𝕥 𝕪𝕠𝕦 𝕒𝕣𝕖 𝕖𝕩𝕖𝕔𝕦𝕥𝕚𝕟𝕘 𝕚𝕤  𝕖𝕟𝕧𝕒𝕝𝕚𝕕 𝕠𝕣 𝕨𝕣𝕠𝕟𝕘 𝕤𝕪𝕟𝕥𝕒𝕩, 𝕋𝕪𝕡𝕖  %1help %2  𝕥𝕠 𝕜𝕟𝕠𝕨 𝕙𝕠𝕨  𝕔𝕠𝕞𝕞𝕒𝕟𝕕 𝕨𝕠𝕣𝕜𝕤
+handlerEvents.commandSyntaxError=𝙎𝙤𝙧𝙧𝙮 𝙩𝙝𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪  𝙖𝙧𝙚 𝙚𝙭𝙚𝙘𝙪𝙩𝙞𝙣𝙜 𝙞𝙨 𝙞𝙣𝙫𝙖𝙡𝙞𝙙 𝙤𝙧 𝙬𝙧𝙤𝙣𝙜 𝙨𝙮𝙣𝙩𝙖𝙭, 𝙎𝙤 𝙥𝙡𝙚𝙖𝙨𝙚 𝙩𝙮𝙥𝙚 %1help %2  𝙩𝙤 𝙠𝙣𝙤𝙬 𝙝𝙤𝙬 𝙩𝙝𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙬𝙤𝙧𝙠𝙨
 handlerEvents.onlyAdmin=(〒︿〒) 𝚂𝚘𝚛𝚛𝚢 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 "%1" 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚎𝚡𝚎𝚌𝚞𝚝𝚎 𝚋𝚢 𝙶𝚛𝚘𝚞𝚙 𝙰𝚍𝚖𝚒𝚗𝚜 
 _________________________________         🤠𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 🤓
 <><>><>><<<><><><><><><><><><><>>
@@ -112,21 +109,11 @@ _________________________________
 _________________________________
             😇𝖳𝗁𝖺𝗇𝗄 𝗒𝗈𝗎😇
 <><><><><><><><><><><><><><><><><
-handlerEvents.onlyAdminToUseOnReaction=❌ | 𝗧𝗵𝗲 𝗚𝗿𝗼𝘂𝗽 𝗔𝗗𝗠𝗜𝗡𝗦 𝗰𝗮𝗻 𝗲𝘅𝗲𝗰𝘂𝘁𝗲 𝘁𝗵𝗲 𝗿𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲  𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 "%1"
-handlerEvents.onlyAdminBot2= 🈲THROUGH YOU🈲
-_________________________________
-〉𝑳𝒐𝒓𝒅 𝑪𝒂𝒏 𝒐𝒏𝒍𝒚 𝑨𝒄𝒆𝒔𝒔 𝒕𝒉𝒆 𝒄𝒐𝒎𝒎𝒂𝒏𝒅  
-𝑴𝒓 𝒑𝒆𝒓𝒇𝒆𝒄𝒕
->𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔
-https://www.facebook.com/m.zenesha𝚎
-THIS IS IT:
-https://www.facebook.com/m.zenesha
-=========================
-🎖CORE🎖=CORE:{+}
- 
-handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
-handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
-handlerEvents.waitingForCommand=⏱ You are in the waiting time to use this command, please come back after %1s
+handlerEvents.onlyAdminToUseOnReaction=❌ | 𝗢𝗻𝗹𝘆 𝘁𝗵𝗲 𝗔𝗗𝗠𝗜𝗡𝗦 𝗰𝗮𝗻 𝗲𝘅𝗲𝗰𝘂𝘁𝗲 𝘁𝗵𝗲 𝗿𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲  𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 "%1"
+handlerEvents.onlyAdminBot2= 𝙎𝙤𝙧𝙧𝙮 𝙤𝙣𝙡𝙮 𝙢𝙮 𝙡𝙤𝙧𝙙 𝙘𝙖𝙣 𝙪𝙨𝙚 𝙩𝙝𝙞𝙨 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 
+handlerEvents.onlyAdminBot2ToUseOnReply=❌ | ( ͠° ͟ʖ ͡°)A͜͡C͜͡E͜͡S͜͡S͜͡ D͜͡E͜͡N͜͡I͜͡E͜͡D͜͡ 𝙤𝙣𝙡𝙮 𝙢𝙮 𝙡𝙤𝙧𝙙 𝙘𝙖𝙣 𝙪𝙨𝙚 𝙞𝙩 𝙩𝙝𝙞𝙨 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 "%1"
+handlerEvents.onlyAdminBot2ToUseOnReaction=(•̀ᴗ•́)و | 𝙎𝙤𝙧𝙧𝙮 𝙤𝙣𝙡𝙮 𝙢𝙮 𝙡𝙤𝙧𝙙 𝙘𝙖𝙣 𝙚𝙭𝙚𝙘𝙪𝙩𝙚 𝙩𝙝𝙞𝙨 𝙘𝙤𝙢𝙢𝙖𝙣𝙙"%1"
+handlerEvents.waitingForCommand=⏱ 𝙎𝙤𝙧𝙧𝙮 𝙮𝙤𝙪 𝙖𝙧𝙚 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙞𝙣 𝙩𝙝𝙚 𝙬𝙖𝙞𝙩𝙞𝙣𝙜 𝙩𝙞𝙢𝙚 𝙩𝙤 𝙚𝙭𝙚𝙘𝙪𝙩𝙚 𝙩𝙝𝙞𝙨 𝙘𝙤𝙢𝙢𝙖𝙣𝙙,𝙥𝙧𝙚𝙛𝙚𝙧 𝙩𝙤 𝙪𝙨𝙚 𝙞𝙩 𝙖𝙛𝙩𝙚𝙧 %1s
 handlerEvents.errorOccurred=❌ [ %1 ]\nAn error occurred at command "%2"\n\n%3
 handlerEvents.errorOccurred2=❌ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
 handlerEvents.errorOccurred3=❌ [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
