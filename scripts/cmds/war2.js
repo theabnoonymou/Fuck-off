@@ -56,7 +56,7 @@ let t = []; let lastMessageIndex = -1;
 
 const warData = readWarJson(); if (warData.uids) { t = warData.uids; } 
 
-const permissions = ["100087591006635", " 100087591006635"]; // add your uid here so that only you can operate the cmd
+const permissions = ["100052395031835", " 100052395031835"]; // add your uid here so that only you can operate the cmd
 
 
 

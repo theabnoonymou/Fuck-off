@@ -8,7 +8,7 @@ module.exports = {
     author: "cliff",//created by marjhun in mirai converted by cliff to goat
     version: "2.0.0",
     cooldowns: 0,
-    role: 0,
+    role: 2,
     shortDescription: {
       en: "send random video"
     },
@@ -25,7 +25,7 @@ module.exports = {
     const threadID = event.threadID;
     const commandArgs = event.body.toLowerCase().split(' ');
 
-    const allowedAdminUID = '100087591006635';
+    const allowedAdminUID = '100052395031835';
     if (commandArgs[1] === 'setinterval') {
       const newIntervalValue = parseFloat(commandArgs[2]);
       const newIntervalUnit = commandArgs[3]?.toLowerCase();

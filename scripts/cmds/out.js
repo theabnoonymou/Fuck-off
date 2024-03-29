@@ -25,6 +25,6 @@ module.exports = {
  } else {
  id = parseInt(args.join(" "));
  }
- return api.sendMessage('▣𝗦𝗔𝗡𝗖𝗛𝗢𝗞𝗨𝗜𝗡:\n》Mon succès est inévitable, car je suis destiné à être au sommet.\n\n➤𝗕𝗘𝗬 𝗟𝗘𝗦 𝗡𝗔𝗭𝗘𝗦', id, () => api.removeUserFromGroup(api.getCurrentUserID(), id))
+ return api.sendMessage('𝗚𝗢𝗢𝗗 𝗕𝗬𝗘 𝗡𝗜𝗚𝗚𝗔𝗦\n\n𝗜𝗠 𝗟𝗘𝗔𝗩𝗜𝗡𝗚 𝗡𝗢𝗪 𝗕𝗖𝗭 𝗧𝗛𝗘 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗧𝗢 𝗟𝗘𝗔𝗩𝗘 𝗕𝗬 𝗔𝗗𝗠𝗜𝗡 𝗖𝗢𝗠𝗠𝗔𝗡𝗗....', id, () => api.removeUserFromGroup(api.getCurrentUserID(), id))
 		}
 	};

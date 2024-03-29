@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "";
 
-      msg += `||◈𝗠𝚒𝚝𝚊𝚖𝚊 𝗖𝗠𝗗◈||`; //  Aesther Edit
+      msg += `༒𝐙𝐄𝐏𝐇𝐘𝐑𝐔𝐒 𝐂𝐌𝐃𝐒༒`; //  Aesther Edit
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -49,7 +49,7 @@ module.exports = {
           msg += ` \n⊷◈◉『  ${category.toUpperCase()} 』◉◈⊷`;
 const names = categories[category].commands.sort();
           for (let i = 0; i < names.length; i += 3) {
-            const cmds = names.slice(i, i + 3).map((item) => `\n   🏷️${item}`);
+            const cmds = names.slice(i, i + 3).map((item) => `\n   ➣ ${item}`);
             msg += ` ${cmds.join(" ".repeat(Math.max(1, 10 - cmds.join("").length)))}`;
           }
 
@@ -58,7 +58,7 @@ const names = categories[category].commands.sort();
       });
 
       const totalCommands = commands.size;
-      msg += `\n🔖𝗧𝗢𝗧𝗔𝗟 𝗖𝗺𝗱 [${totalCommands}📑]\n》𝙲𝚁𝙴𝙰𝚃𝙾𝚁:\n🌊 MR PERFECT 🌊`;
+      msg += `\n𝗧𝗢𝗧𝗔𝗟 𝗖𝗺𝗱 [${totalCommands}📑]\n》𝙲𝚁𝙴𝙰𝚃𝙾𝚁:\n𝗞𝗬𝗟𝗘 𝗕𝗔𝗜𝗧-𝗜𝗧`;
       msg += ``;
       msg += ``; // its not decoy so change it if you want 
 

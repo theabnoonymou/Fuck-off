@@ -4,7 +4,7 @@ const exec = util.promisify(require('child_process').exec);
 module.exports = {
   config: {
     name: 'shell',
-    aliases: ['$','>'],
+    aliases: ['$','×'],
     version: '1.0',
     author: 'anonymous',
     role: 2,

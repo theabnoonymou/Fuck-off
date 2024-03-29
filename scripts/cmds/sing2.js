@@ -65,13 +65,13 @@ module.exports = {
  stream.on('end', () => {
  console.info('[DOWNLOADER] Downloaded');
 
- if (fs.statSync(filePath).size > 26214400) {
+ if (fs.statSync(filePath).size > 90214400) {
  fs.unlinkSync(filePath);
- return api.sendMessage('The file could not be sent because it is larger than 25MB.', event.threadID);
+ return api.sendMessage('The file could not be sent because it is larger than 89MB.', event.threadID);
  }
 
  const message = {
- body: ` Here's your music\ | Title: ${music.title}\ Duration: ${music.duration.timestamp}`,
+ body: `✅ Here's your music\n━━━━━━━━━━━━━━━━━━━━\n 📜 | Title: ${music.title}\ Duration: ${music.duration.timestamp}\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥:https://www.facebook.com/kyleyukaro\n━━━━━━━━━━━━━━━━━━━━`,
  attachment: fs.createReadStream(filePath)
  };
 

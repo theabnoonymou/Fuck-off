@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   config: {
     name: "owner",
-    aliases: ["info","MR PERFECT"],
+    aliases: ["info","Kyle Bait-it"],
     author: " Mr perfect ", 
     version: "2.0",
     cooldowns: 0,
@@ -23,16 +23,16 @@ module.exports = {
   },
   onStart: async function ({ api, event }) {
       try {
-        const loadingMessage = "𝙇𝙤𝙖𝙙𝙞𝙣𝙜......";
+        const loadingMessage = "𝙇𝙤𝙖𝙙𝙞𝙣𝙜 𝙤𝙬𝙣𝙚𝙧 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣......";
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝑴𝑹 𝑷𝑬𝑹𝑭𝑬𝑪𝑻',
+          name: '𝑲𝒀𝑳𝑬 𝑩𝑨𝑰𝑻-𝑰𝑻',
           gender: '𝘽𝙤𝙮',
-          hobby: '𝙅𝙪𝙨𝙩 𝙖 𝙃𝙖𝙥𝙥𝙮 𝙡𝙞𝙛𝙚 ',
-          relationship: '𝙎𝙞𝙣𝙜𝙡𝙚 𝙔𝙚𝙩!',
-          facebookLink: ' ',
-          bio: '𝙏𝙤 𝙢𝙖𝙠𝙚 𝙛𝙪𝙣'
+          hobby: '𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙩𝙖𝙠𝙧𝙖𝙬',
+          relationship: '𝙝𝙖𝙫𝙚 𝙖 𝙜𝙞𝙧𝙡𝙛𝙧𝙞𝙚𝙣𝙙 𝙧𝙣',
+          facebookLink: 'https://www.facebook.com/kyleyukaro',
+          bio: '𝙙𝙤𝙣𝙩 𝙥𝙖𝙣𝙞𝙘 𝙞𝙩𝙨 𝙤𝙧𝙜𝙖𝙣𝙞𝙘', 
         };
 
         const videoUrl = 
@@ -55,9 +55,8 @@ module.exports = {
         fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
         const response = `
-       𝕆𝕨𝕟𝕖𝕣 𝕀𝕟𝕗𝕠𝕣𝕞𝕒𝕥𝕚𝕠𝕟
-««««««««««««««»»»»»»»»»»»»»»  
-☆☆☆☆☆☆(◠‿◠)☆☆☆☆☆☆     
+    𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡
+««««««««««««««»»»»»»»»»»»»»»       
 𝙉𝙖𝙢𝙚:${ownerInfo.name}          
 𝙂𝙚𝙣𝙙𝙚𝙧:${ownerInfo.gender}
 𝙃𝙤𝙗𝙗𝙮:${ownerInfo.hobby}

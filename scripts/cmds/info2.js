@@ -20,23 +20,23 @@ module.exports = {
     const name = userData.name;
 
     const ment = [{ id: id, tag: name }];
-    const a = "Anya";
-    const b = " + ";
-    const c = "MR PERFECT";
+    const a = "YANZU BOT TABACHOY";
+    const b = "✱";
+    const c = "KYLE BAIT-IT";
 const e = "Male";
-    const d = "m.me/100087591006635";
+    const d = "m.me/kyleyukaro";
 const f = "rx_editz";
-const g = "Single life rocks💀";
+const g = "have a girlfriend rn plss dnd✋";
 
     message.reply({ 
-      body: `${name}, here is the information 🌝
-🌸 Bot's Name: ${a}
-🌸 Bot's prefix: ${b}  
-🌸 Owner: ${c}
-🌸 Gender: ${e}
-🌸 Messenger: ${d}
-🌸 Insta: ${f}
-🌸 Relationship: ${g}`,
+      body: `${name}, here is the information ツ
+❐ Bot's Name: ${a}
+❐ Bot's prefix: ${b}  
+❐ Owner: ${c}
+❐ Gender: ${e}
+❐ Messenger: ${d}
+❐ Insta: ${f}
+❐ Relationship: ${g}`,
 mentions: ment,
       attachment: attachment });
   }
