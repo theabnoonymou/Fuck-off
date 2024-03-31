@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const GPT_API_URL = 'https://sandipapi.onrender.com/gpt';
+const GPT_API_URL = 'https://deku-rest-api.replit.app';
 const PREFIXES = ['ai','Ai','ask','zep'￼,'gpt'];
 const horizontalLine = "━━━━━━━━━━━━━━━";
 
