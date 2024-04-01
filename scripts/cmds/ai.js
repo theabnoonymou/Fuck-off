@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const GPT_API_URL = 'https://deku-rest-api.replit.app';
+const GPT_API_URL = 'https://deku-rest-api.replit.app/gpt4';
 const PREFIXES = ['ai','Ai','ask','zep'￼,'gpt'];
 const horizontalLine = "━━━━━━━━━━━━━━━";
 
