@@ -6,7 +6,7 @@
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
-    "intervalGetNewCookie": 6432000,
+    "intervalGetNewCookie": 4320,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
   "antiInbox": false,
@@ -17,21 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100052395031835"
+    "100052395031835",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [
-      "on",
-      "off"
-    ],
+    "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Kyle BAIT-IT",
+  "OWNER": "Kyle Bait-it",
   "AGE": "19",
   "GENDER": "MALE",
-  "nickNameBot": "[ ✱ ] ➤ 𝗭𝗘𝗣𝗛 𝗔𝗜㋡",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100052395031835",
+  "nickNameBot": "≫ ✱ ≪ ➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𓃵",
+  "FACEBOOK": "https://www.facebook.com/kyleyukaro",
   "prefix": "✱",
   "database": {
     "type": "sqlite",
@@ -43,7 +41,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "NiknobMakshubga@gmail.com",
+      "email": "niknobmakshub@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
@@ -57,25 +55,26 @@
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
-    "port": 5000
+    "port": 3001
   },
   "serverUptime": {
-    "enable": true,
-    "port": 5000,
+    "enable": false,
+    "port": 3000,
     "socket": {
       "enable": true,
       "channelName": "uptime",
-      "verifyToken": "uk1_pGV4FIEFoaIdedr3UNmi0gde1qUMyYI1jk1K-WJb"
-    }
+      "verifyToken": "AJ3mQqe9wrL8sF5NAwJuSteH",
+			"url": ""
+		}
   },
   "autoRestart": {
-    "time": 699400000,
+    "time": 3600000,
     "notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
   },
   "autoUptime": {
     "enable": true,
-    "timeInterval": 500,
-    "url": "https://uptime.botrandom30.repl.co",
+    "timeInterval": 8640,
+    "url": "${process.env.DevURL}.sisko.replit.dev/",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
   "autoLoadScripts": {
