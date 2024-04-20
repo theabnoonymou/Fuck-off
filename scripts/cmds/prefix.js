@@ -45,7 +45,7 @@ module.exports = {
 			confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
 			successGlobal: "Changed prefix of system bot to: %1",
 			successThisThread: "Changed prefix in your box chat to: %1",
-			myPrefix: "🌐 System prefix: %1\n🛸 Your box chat prefix: %2"
+			myPrefix: "𝗛𝗘𝗬 𝗜 𝗔𝗠 𝗭𝗘𝗣𝗛𝗬𝗥𝗨𝗦 𝗔𝗜 𝗠𝗬 𝗣𝗥𝗘𝗙𝗜𝗫 𝗜𝗦???\n⚙ System prefix: %1\n💬 Your box chat prefix: %2\n❖ ── ✦ ──『✙』── ✦ ── ❖\n📌𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘??\n1: ai\n2: Zep\n3: =gemini\n4: =sing2\n5: =help1\n6: =help\n7: =4k\n8: =pin\n9: =up2\n10: =info\n❖ ── ✦ ──『✙』── ✦ ── ❖\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥: 𝖪𝖸𝖫𝖤 𝖡𝖠𝖨𝖳-𝖨𝖳(𝖧𝖠𝖭𝖣𝖲𝖮𝖬𝖤) "
 		}
 	},
 
