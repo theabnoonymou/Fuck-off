@@ -20,12 +20,12 @@ module.exports = {
     const name = userData.name;
 
     const ment = [{ id: id, tag: name }];
-    const a = "YANZU BOT TABACHOY";
-    const b = "✱";
+    const a = "𝗭𝗘𝗣𝗛𝗬𝗥𝗨𝗦 𝗔𝗜";
+    const b = "[ = ]";
     const c = "KYLE BAIT-IT";
 const e = "Male";
-    const d = "m.me/kyleyukaro";
-const f = "rx_editz";
+    const d = "https://www.facebook.com/itssmekylebaitit";
+const f = "itssmekylebaitit";
 const g = "have a girlfriend rn plss dnd✋";
 
     message.reply({ 
