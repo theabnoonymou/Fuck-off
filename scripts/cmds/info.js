@@ -15,13 +15,13 @@ module.exports = {
     envConfig: {}
   },
   onStart: async function ({ message }) {
-    const botName = "YANZU BOT TABACHOY";
-    const botPrefix = "✱";
+    const botName = "𝗭𝗘𝗣𝗛𝗬𝗥𝗨𝗦 𝗔𝗜";
+    const botPrefix = "=";
     const authorName = "KYLE BAIT-IT";
     const ownAge = "19";
     const teamName = "Github team";
-    const authorFB = "https://www.facebook.com/kyleyukarokyleyukaro";
-    const authorInsta = "N/A";
+    const authorFB = "https://www.facebook.com/itssmekylebaitit";
+    const authorInsta = "itssmekylebaitit";
     const tikTok = "𝙆𝙔𝙇𝙀/🇵🇭/🇰🇷/🇯🇵";
     const urls = JSON.parse(fs.readFileSync('perfect.json'));
     const link = urls[Math.floor(Math.random() * urls.length)];
