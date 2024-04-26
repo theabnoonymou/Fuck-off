@@ -3,7 +3,7 @@ const jb = "";
 
 module.exports = {
   config: {
-    name: "hi",
+    name: "hi2",
     version: "1.0",
     author: "Rishad",
     countDown: 5,
