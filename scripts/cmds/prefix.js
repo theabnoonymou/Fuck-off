@@ -1,4 +1,4 @@
-const fs = require("fs-extra");
+=cmd install prefix.js const fs = require("fs-extra");
 const { utils } = global;
 const moment = require("moment-timezone");
 
@@ -47,7 +47,7 @@ module.exports = {
       confirmThisThread: "Please react to this message to confirm the prefix change for your chat box",
       successGlobal: "The prefix of the bot system has been changed to: %1",
       successThisThread: "The prefix of your chat box has been changed to: %1",
-      myPrefix: " 𝗛𝗘𝗬 𝗜 𝗔𝗠 𝗭𝗘𝗣𝗛𝗬𝗥𝗨𝗦 𝗔𝗜 𝗠𝗬 𝗣𝗥𝗘𝗙𝗜𝗫 𝗜𝗦???\n\n𝗕𝗢𝗧 𝗣𝗥𝗘𝗙𝗜𝗫:\n⚙ System prefix: [ %1 ]\n💬 Your box chat prefix:[ %2 ]\n\n◑ ━━━━━ ▣ ━━━━━ ◐\n📆|⏰ 𝗗𝗔𝗧𝗘 𝗔𝗡𝗗 𝗧𝗜𝗠𝗘\n  %3\n◑ ━━━━━ ▣ ━━━━━ ◐\n࿇ ══━━━━✥◈✥━━━━══ ࿇\n📌𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘??\n1: ai\n2: Zep\n3: =gemini\n4: =sing2\n5: =help1\n6: =help\n7: =4k\n8: =pin\n9: =up2\n10: =info\n࿇ ══━━━━✥◈✥━━━━══ ࿇\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥: 𝖪𝖸𝖫𝖤 𝖡𝖠𝖨𝖳-𝖨𝖳(𝖧𝖠𝖭𝖣𝖲𝖮𝖬𝖤)"
+      myPrefix: " 𝗛𝗘𝗬 𝗜 𝗔𝗠 𝗭𝗘𝗣𝗛𝗬𝗥𝗨𝗦 𝗔𝗜 𝗠𝗬 𝗣𝗥𝗘𝗙𝗜𝗫 𝗜𝗦???\n\n𝗕𝗢𝗧 𝗣𝗥𝗘𝗙𝗜𝗫:\n⚙ System prefix: [ %1 ]\n💬 Your box chat prefix:[ %2 ]\n\n◑ ━━━━━ ▣ ━━━━━ ◐\n📆|⏰ 𝗗𝗔𝗧𝗘 𝗔𝗡𝗗 𝗧𝗜𝗠𝗘\n  %3\n◑ ━━━━━ ▣ ━━━━━ ◐\n࿇ ══━━━━✥◈✥━━━━══ ࿇\n📌𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘??\n1: ai\n2: Zep\n3: %2gemini\n4: %2sing2\n5: %2help1\n6: %2help\n7: %24k\n8: %2pin\n9: %2up2\n10: %2info2\n11: %2callad - to message admin \n࿇ ══━━━━✥◈✥━━━━══ ࿇\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥: 𝖪𝖸𝖫𝖤*******(𝖧𝖠𝖭𝖣𝖲𝖮𝖬𝖤)"
     }
   },
 
