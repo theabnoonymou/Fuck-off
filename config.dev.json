@@ -27,9 +27,9 @@
   "OWNER": "Kyle Bait-it",
   "AGE": "19",
   "GENDER": "MALE",
-  "nickNameBot": "[ = ] ◈ ➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𓃵(ᴷʸˡᵉ'ˢ ᴮᵒᵗ)",
+  "nickNameBot": "[ × ] ◈➤ 𝙕𝙮𝙡𝙙𝙖𝙧𝙠 𝘽𝙤𝙩",
   "FACEBOOK": "https://www.facebook.com/kyleyukaro",
-  "prefix": "=",
+  "prefix": "×",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
